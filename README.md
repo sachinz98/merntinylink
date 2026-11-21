@@ -1,5 +1,3 @@
-I am migrating backend to springboot/java...
-
 # TinyLink - URL shortner using NodeJS and React
 
 It is a full-stack url shortner app using nodejs which lets user generate short links with custom aliases. 
